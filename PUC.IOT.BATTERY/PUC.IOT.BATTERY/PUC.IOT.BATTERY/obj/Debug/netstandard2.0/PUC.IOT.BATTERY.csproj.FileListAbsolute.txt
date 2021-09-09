@@ -1,0 +1,28 @@
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\PUC.IOT.BATTERY.deps.json
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\PUC.IOT.BATTERY.dll
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\ref\PUC.IOT.BATTERY.dll
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\PUC.IOT.BATTERY.pdb
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.AssemblyInfoInputs.cache
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.AssemblyInfo.cs
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.csproj.CoreCompileInputs.cache
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.dll
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\ref\PUC.IOT.BATTERY.dll
+C:\Projetos\POS\IOTOL - Internet das Coisas arquitetura, tecnologias e aplicações\Projeto\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.pdb
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\PUC.IOT.BATTERY.deps.json
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\PUC.IOT.BATTERY.dll
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\ref\PUC.IOT.BATTERY.dll
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\PUC.IOT.BATTERY.pdb
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.AssemblyInfoInputs.cache
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.AssemblyInfo.cs
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.csproj.CoreCompileInputs.cache
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.dll
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\ref\PUC.IOT.BATTERY.dll
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.pdb
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\obj\Debug\netstandard2.0\PUC.IOT.BATTERY.csprojAssemblyReference.cache
+C:\Projetos\PUC.IOT.BATTERY\PUC.IOT.BATTERY\PUC.IOT.BATTERY\bin\Debug\netstandard2.0\appsettings.json
